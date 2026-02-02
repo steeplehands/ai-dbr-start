@@ -4,8 +4,7 @@ import { Input } from './ui/input';
 import { Select } from './ui/select';
 import { Footer } from './Footer';
 
-// TODO: Replace with your GoHighLevel webhook URL
-const WEBHOOK_URL = 'YOUR_GOHIGHLEVEL_WEBHOOK_URL';
+const WEBHOOK_URL = 'https://services.leadconnectorhq.com/hooks/saiPIHsElD7qIIVgrvxR/webhook-trigger/34GkgNClOwiGPkLtC0uV';
 const SUCCESS_REDIRECT = 'https://success-reactivation.rizo.pro';
 
 const databaseSizeOptions = [
