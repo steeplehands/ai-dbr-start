@@ -4,7 +4,7 @@ import { Input } from './ui/input';
 import { Select } from './ui/select';
 import { Footer } from './Footer';
 
-const WEBHOOK_URL = 'https://services.leadconnectorhq.com/hooks/saiPIHsElD7qIIVgrvxR/webhook-trigger/34GkgNClOwiGPkLtC0uV';
+const WEBHOOK_URL = 'https://services.leadconnectorhq.com/hooks/saiPIHsElD7qIIVgrvxR/webhook-trigger/0176acaf-f747-4185-8ede-657b53d1cb4b';
 const SUCCESS_REDIRECT = 'https://success-reactivation.rizo.pro';
 
 const databaseSizeOptions = [
