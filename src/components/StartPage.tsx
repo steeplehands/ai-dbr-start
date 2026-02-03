@@ -167,7 +167,7 @@ export function StartPage() {
           </div>
 
           {/* Trust indicators */}
-          <div className="mt-10 flex flex-wrap justify-center gap-6 text-gray-400 text-sm">
+          <div className="mt-10 flex flex-wrap justify-center gap-6 text-gray-400 text-sm text-center">
             <div className="flex items-center gap-2">
               <MessageSquare className="w-4 h-4 text-orange-500" />
               <span>200 Free Messages</span>
