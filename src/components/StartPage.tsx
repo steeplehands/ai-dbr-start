@@ -74,7 +74,7 @@ export function StartPage() {
             Turn Dead Leads Into Revenue
             <br />
             <span className="bg-gradient-to-r from-orange-400 to-purple-500 bg-clip-text text-transparent">
-              Starting With 100 Free Messages
+              Starting With 200 Free Messages
             </span>
           </h1>
 
@@ -161,7 +161,7 @@ export function StartPage() {
 
             {/* Fine print */}
             <p className="text-sm text-gray-500 text-center mt-6 leading-relaxed">
-              After your first 100 messages (free), you'll only cover API/SMS costs (~$0.01-0.02 per message).
+              After your first 200 messages (free), you'll only cover API/SMS costs (~$0.01-0.02 per message).
               You pay our fee only when leads convert.
             </p>
           </div>
@@ -170,11 +170,11 @@ export function StartPage() {
           <div className="mt-10 flex flex-wrap justify-center gap-6 text-gray-400 text-sm">
             <div className="flex items-center gap-2">
               <MessageSquare className="w-4 h-4 text-orange-500" />
-              <span>100 Free Messages</span>
+              <span>200 Free Messages</span>
             </div>
             <div className="flex items-center gap-2">
               <Zap className="w-4 h-4 text-orange-500" />
-              <span>Results in 48 Hours</span>
+              <span>Campaign goes live within 72 hours. You only pay when leads convert - no results, no fees.</span>
             </div>
           </div>
         </div>
