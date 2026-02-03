@@ -167,12 +167,12 @@ export function StartPage() {
           </div>
 
           {/* Trust indicators */}
-          <div className="mt-10 flex flex-wrap justify-center gap-6 text-gray-400 text-sm text-center">
-            <div className="flex items-center gap-2">
+          <div className="mt-10 flex flex-col items-center gap-3 text-gray-400 text-sm text-center">
+            <div className="flex flex-col items-center gap-1">
               <MessageSquare className="w-4 h-4 text-orange-500" />
               <span>200 Free Messages</span>
             </div>
-            <div className="flex items-center gap-2">
+            <div className="flex flex-col items-center gap-1">
               <Zap className="w-4 h-4 text-orange-500" />
               <span>Campaign goes live within 72 hours. You only pay when leads convert - no results, no fees.</span>
             </div>
